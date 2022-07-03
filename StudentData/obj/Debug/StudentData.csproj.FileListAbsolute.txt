@@ -1,0 +1,12 @@
+D:\CUI, Attock Campus\5th Semester\Visual Programming - Lab\Windows Forms\StudentData\bin\Debug\StudentData.exe.config
+D:\CUI, Attock Campus\5th Semester\Visual Programming - Lab\Windows Forms\StudentData\bin\Debug\StudentData.exe
+D:\CUI, Attock Campus\5th Semester\Visual Programming - Lab\Windows Forms\StudentData\bin\Debug\StudentData.pdb
+D:\CUI, Attock Campus\5th Semester\Visual Programming - Lab\Windows Forms\StudentData\obj\Debug\StudentData.csproj.AssemblyReference.cache
+D:\CUI, Attock Campus\5th Semester\Visual Programming - Lab\Windows Forms\StudentData\obj\Debug\StudentData.StudentRegister.resources
+D:\CUI, Attock Campus\5th Semester\Visual Programming - Lab\Windows Forms\StudentData\obj\Debug\StudentData.Properties.Resources.resources
+D:\CUI, Attock Campus\5th Semester\Visual Programming - Lab\Windows Forms\StudentData\obj\Debug\StudentData.csproj.GenerateResource.cache
+D:\CUI, Attock Campus\5th Semester\Visual Programming - Lab\Windows Forms\StudentData\obj\Debug\StudentData.csproj.CoreCompileInputs.cache
+D:\CUI, Attock Campus\5th Semester\Visual Programming - Lab\Windows Forms\StudentData\obj\Debug\StudentData.exe
+D:\CUI, Attock Campus\5th Semester\Visual Programming - Lab\Windows Forms\StudentData\obj\Debug\StudentData.pdb
+D:\CUI, Attock Campus\5th Semester\Visual Programming - Lab\Windows Forms\StudentData\obj\Debug\StudentData.SMS.resources
+D:\CUI, Attock Campus\5th Semester\Visual Programming - Lab\Windows Forms\StudentData\obj\Debug\StudentData.UpdateStudent.resources
